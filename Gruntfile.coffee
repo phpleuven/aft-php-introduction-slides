@@ -101,7 +101,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'https://github.com/denbatte/aft-slides-intro.git'
+                    remote: 'https://github.com/phpleuven/aft-php-introduction-slides.git'
                     branch: 'gh-pages'
 
 
