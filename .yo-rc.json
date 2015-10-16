@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "AFT",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "2dotstwice",
+    "githubRepository": "aft-slides-skeleton"
+  }
+}
