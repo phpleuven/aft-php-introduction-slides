@@ -219,3 +219,20 @@ body {
   }
 }
 
+// Components ----------------------------------
+
+.time-line-arrow {
+  float:left;
+  background:url('../../resources/timeline_arrow.png');
+  height: 70px;
+  width: 169px;
+  color: #693180;
+
+  .time-line-content {
+    padding-top: 13px;
+    padding-left: 10px;
+    span {
+      font-size: 0.5em;
+    }
+  }
+}

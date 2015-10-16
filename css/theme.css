@@ -377,3 +377,15 @@ body {
   height: 10px; }
   .reveal .progress span {
     background: #3d0b4b; }
+
+.time-line-arrow {
+  float: left;
+  background: url('../../resources/timeline_arrow.png');
+  height: 70px;
+  width: 169px;
+  color: #693180; }
+  .time-line-arrow .time-line-content {
+    padding-top: 13px;
+    padding-left: 10px; }
+    .time-line-arrow .time-line-content span {
+      font-size: 0.5em; }
