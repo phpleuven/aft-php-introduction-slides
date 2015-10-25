@@ -1,6 +1,10 @@
-# Personal Home Page / Forms Interpreter
+<h1>Personal Home Page / Forms Interpreter</h1>
 
-* PHP/FI 1 - By Rasmus Lerdorf released in 1995 (as old as you are!)
+<ul>
+    <li>
+        PHP/FI 1 - By Rasmus Lerdorf released in 1995 (as old as you are!)
+    </li>
+</lu>
 
 <div class="intro" style="margin: 50px 0 0 50px;">
     <div class="time-line-arrow">
