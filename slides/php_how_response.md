@@ -1,6 +1,5 @@
 # The response
 
-* html
-* xml
-* json
-* ...
+* html, xml, json, rss, ...
+
+<img src="resources/response.png">
