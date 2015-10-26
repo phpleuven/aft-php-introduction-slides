@@ -1,6 +1,7 @@
 # The brain of the server
 
 * request recieved (URL and GET, POST, PUT, DELETE, ...)
-* access control (htaccess, ...)
+* access control
 * data written, read, validated
-* response formed (twig, smartie, php, ...)
+* Model, View, Controller
+* response formed (2OO, 401, 500, ...)
