@@ -5,5 +5,5 @@
 * Nano
 * Notepad++
 * Sublime text
-* Eclipse
+* Eclipse, Aptana
 * PHPStorm

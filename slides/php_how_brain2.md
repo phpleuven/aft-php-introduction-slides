@@ -1,5 +1,5 @@
 # The brain of the server
 
-* response send (header with code and message body)
+## response send
 
 <img src="resources/request.png">
