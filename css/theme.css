@@ -380,7 +380,7 @@ body {
 
 .time-line-arrow {
   float: left;
-  background: url('../../resources/timeline_arrow.png');
+  background: url('../resources/timeline_arrow.png');
   height: 70px;
   width: 169px;
   color: #693180; }
