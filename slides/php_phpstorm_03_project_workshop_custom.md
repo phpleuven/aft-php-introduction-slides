@@ -1,4 +1,4 @@
-# PHPStorm - project
+# Project
 
 * Project name: "workshop"
 * Deployment options: Custom

@@ -1,4 +1,4 @@
-# PHPStorm - parameters for server
+# Parameters for server
 
 * Name: azure
 * Type: SFTP
