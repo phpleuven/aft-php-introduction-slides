@@ -1,4 +1,4 @@
-# PHPStorm - remote server root folder
+# Remote server root folder
 
 * Make "azure" the "Project Root"
 

@@ -1,4 +1,4 @@
-# PHPStorm - scenario
+# Scenario
 
 * Web server is on remote host, files are accessible via FTP/SFTP/FTPS
 

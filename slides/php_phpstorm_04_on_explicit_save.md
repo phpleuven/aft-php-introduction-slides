@@ -1,4 +1,4 @@
-# PHPStorm - deployment options
+# Deployment options
 
 * Upload changed files: On explicit save action
 

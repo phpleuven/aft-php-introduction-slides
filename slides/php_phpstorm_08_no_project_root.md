@@ -1,4 +1,4 @@
-# PHPStorm - project web path
+# Project web path
 
 * Leave it completely empty
 
